@@ -20,7 +20,7 @@ Recommend in VSCode:
 
 1. conda activate rlgpu 
 2. python -c "import torch; print(torch.cuda.is_available(), torch.cuda.device_count())" -> it should print "True 1"
-3. put this folder under isaacgym/python/Franka_PPO
+3. put this folder under isaacgym/python/Franka_PPO_v2
 4. export LD_LIBRARY_PATH=/home/jimmy/anaconda3/envs/rlgpu/lib
 5. export LD_LIBRARY_PATH=/home/jimmy/anaconda3/envs/rlgpu/lib:${LD_LIBRARY_PATH}
 6. cd PPO_franka
