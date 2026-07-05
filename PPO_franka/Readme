@@ -1,0 +1,5 @@
+https://www.thingiverse.com/thing:6596958
+place franka_latch_ik_lift_cpu_solve.py in python/examples
+place think_shell.urdf in assets/urdf
+run: python franka_latch_ik_lift_cpu_solve.py --controller ik --num_envs 1 --debug_print
+fix latch_z_offset = 0.24 or latch_z_offset = 0.04 in franka_latch_ik_lift_cpu_solve.py
