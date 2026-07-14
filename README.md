@@ -1,5 +1,5 @@
 # Franka_PPO
-Video: https://drive.google.com/file/d/1qpTHZYy_tHANzFCNF-5BR8UxERi6rMJf/view?usp=sharing  
+Video: https://drive.google.com/file/d/1e_TlAvT04Y-b05_fdjjyswzxXNaL2jHX/view?usp=sharing  
 Learn Graping Latch using PPO and IK so PPO can learn smooth behavior like:  
 open → move around latch → close slowly → squeeze → lift
 
